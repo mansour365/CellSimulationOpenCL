@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(235,21): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(632,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(633,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(634,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(635,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(636,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(637,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(645,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(646,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(647,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(648,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(649,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(650,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(658,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(659,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(660,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(661,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(662,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(663,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(671,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(672,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(673,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(674,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(675,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(676,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(684,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(685,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(686,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(687,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(688,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(689,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(697,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(698,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(699,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(700,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(701,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(702,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(710,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(711,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(712,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(713,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(714,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(715,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(723,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(724,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(725,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(726,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(727,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(728,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,33): warning C4101:  'arr6': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,27): warning C4101:  'arr5': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,51): warning C4101:  'arr9': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,45): warning C4101:  'arr8': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,39): warning C4101:  'arr7': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,9): warning C4101:  'arr2': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,21): warning C4101:  'arr4': unreferenced local variable
+C:\Users\Mansour\Desktop\Assignment_3\Assignment_3\Source.cpp(467,15): warning C4101:  'arr3': unreferenced local variable
+  Assignment_3.vcxproj -> C:\Users\Mansour\Desktop\Assignment_3\Debug\Assignment_3.exe
